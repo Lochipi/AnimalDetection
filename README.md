@@ -8,7 +8,7 @@ In this project, we leverage deep learning algorithms and CNNs to identify and c
 
 ## Dataset
 
-We utilize the [Animals Detection Images Dataset](<link to the dataset>) for this project. The dataset consists of a diverse collection of animal images, including various species along with their class labels. The dataset is divided into training and test sets to evaluate the performance of our CNN-based model objectively.
+We utilize the [Animals Detection Images Dataset](https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset) for this project. The dataset consists of a diverse collection of animal images, including various species along with their class labels. The dataset is divided into training and test sets to evaluate the performance of our CNN-based model objectively.
 
 ## Methodology
 
@@ -28,7 +28,7 @@ To get started with this project, follow these steps:
 
 1. Clone this repository.
 
-git clone https://github.com/Lochipi/animal-detection-images.git
+git clone the repo
 
 2. Install the required dependencies.
 
