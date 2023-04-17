@@ -28,7 +28,7 @@ To get started with this project, follow these steps:
 
 1. Clone this repository.
 
-git clone https://github.com/<username>/animal-detection-images.git
+git clone https://github.com/Lochipi/animal-detection-images.git
 
 2. Install the required dependencies.
 
